@@ -1,4 +1,4 @@
-# Manga
+# Manga list
 
 # J
 
